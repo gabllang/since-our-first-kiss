@@ -1,5 +1,6 @@
 import java.time.LocalDateTime;
 import java.time.Duration;
+// comit só para ficar o verdinho do github
 
 public class CalculadoraTempo {
     public static void main(String[] args) {
